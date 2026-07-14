@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Subhrajitmal/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Subhrajitmal/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Subhrajitmal/LeetCode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Subhrajitmal/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Subhrajitmal/LeetCode/tree/master/0066-plus-one) |
@@ -106,7 +107,12 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Subhrajitmal/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Subhrajitmal/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Subhrajitmal/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Subhrajitmal/LeetCode/tree/master/0344-reverse-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Subhrajitmal/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
