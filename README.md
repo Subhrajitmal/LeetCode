@@ -80,6 +80,7 @@
 | [0189-rotate-array](https://github.com/Subhrajitmal/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Subhrajitmal/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Subhrajitmal/LeetCode/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/Subhrajitmal/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subhrajitmal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -121,6 +122,7 @@
 | [0290-word-pattern](https://github.com/Subhrajitmal/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Subhrajitmal/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Subhrajitmal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0680-valid-palindrome-ii](https://github.com/Subhrajitmal/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Trie
 |  |
 | ------- |
@@ -133,4 +135,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Subhrajitmal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Subhrajitmal/LeetCode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
