@@ -20,6 +20,7 @@
 | [0268-missing-number](https://github.com/Subhrajitmal/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Subhrajitmal/LeetCode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Subhrajitmal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Subhrajitmal/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Subhrajitmal/LeetCode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subhrajitmal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhrajitmal/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -114,6 +115,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Subhrajitmal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Subhrajitmal/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Subhrajitmal/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## String
 |  |
 | ------- |
