@@ -20,6 +20,7 @@
 | [0238-product-of-array-except-self](https://github.com/Subhrajitmal/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Subhrajitmal/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Subhrajitmal/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Subhrajitmal/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Subhrajitmal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Subhrajitmal/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Subhrajitmal/LeetCode/tree/master/0724-find-pivot-index) |
@@ -53,6 +54,7 @@
 | [0242-valid-anagram](https://github.com/Subhrajitmal/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Subhrajitmal/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Subhrajitmal/LeetCode/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/Subhrajitmal/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Subhrajitmal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Subhrajitmal/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Subhrajitmal/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -69,6 +71,7 @@
 | [0217-contains-duplicate](https://github.com/Subhrajitmal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Subhrajitmal/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Subhrajitmal/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Subhrajitmal/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subhrajitmal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhrajitmal/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -89,6 +92,7 @@
 | [0189-rotate-array](https://github.com/Subhrajitmal/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Subhrajitmal/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Subhrajitmal/LeetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Subhrajitmal/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Subhrajitmal/LeetCode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Subhrajitmal/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Subhrajitmal/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -108,6 +112,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Subhrajitmal/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Subhrajitmal/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
