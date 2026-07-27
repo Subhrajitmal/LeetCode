@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Subhrajitmal/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Subhrajitmal/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Subhrajitmal/LeetCode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/Subhrajitmal/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Subhrajitmal/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Subhrajitmal/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Subhrajitmal/LeetCode/tree/master/0066-plus-one) |
@@ -47,6 +48,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Subhrajitmal/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Subhrajitmal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/Subhrajitmal/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Subhrajitmal/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Subhrajitmal/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Subhrajitmal/LeetCode/tree/master/0169-majority-element) |
@@ -179,4 +181,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Subhrajitmal/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Subhrajitmal/LeetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
