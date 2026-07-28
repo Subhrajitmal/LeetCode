@@ -25,6 +25,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Subhrajitmal/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Subhrajitmal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Subhrajitmal/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Subhrajitmal/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Subhrajitmal/LeetCode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subhrajitmal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhrajitmal/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -119,6 +120,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Subhrajitmal/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Subhrajitmal/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/Subhrajitmal/LeetCode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
