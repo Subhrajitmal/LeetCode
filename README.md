@@ -123,6 +123,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Subhrajitmal/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Subhrajitmal/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Subhrajitmal/LeetCode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Subhrajitmal/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Subhrajitmal/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Subhrajitmal/LeetCode/tree/master/0704-binary-search) |
 ## Bit Manipulation
@@ -191,4 +192,8 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Subhrajitmal/LeetCode/tree/master/0036-valid-sudoku) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Subhrajitmal/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
