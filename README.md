@@ -31,6 +31,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Subhrajitmal/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Subhrajitmal/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Subhrajitmal/LeetCode/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/Subhrajitmal/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subhrajitmal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhrajitmal/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Subhrajitmal/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -130,6 +131,7 @@
 | [0278-first-bad-version](https://github.com/Subhrajitmal/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Subhrajitmal/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Subhrajitmal/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Subhrajitmal/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
