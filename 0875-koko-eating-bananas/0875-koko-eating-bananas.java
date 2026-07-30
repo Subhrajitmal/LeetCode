@@ -5,12 +5,10 @@ class Solution {
         for(int pile: piles){
             maxspeed = Math.max(maxspeed,pile);
         }
-        int ans = maxspeed;
-        while(minspeed <= maxspeed){
+        while(minspeed < maxspeed){
             int mid = minspeed + (maxspeed-minspeed)/2;
             if(canfinish(piles,h,mid)){
-                ans = mid;
-                maxspeed = mid-1;
+                maxspeed = mid;
             } else{
                 minspeed = mid+1;
             }
