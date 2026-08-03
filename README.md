@@ -34,6 +34,7 @@
 | [0875-koko-eating-bananas](https://github.com/Subhrajitmal/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subhrajitmal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhrajitmal/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1406-stone-game-iii](https://github.com/Subhrajitmal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Subhrajitmal/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Subhrajitmal/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Subhrajitmal/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -120,6 +121,7 @@
 | [0066-plus-one](https://github.com/Subhrajitmal/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Subhrajitmal/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Subhrajitmal/LeetCode/tree/master/0268-missing-number) |
+| [1406-stone-game-iii](https://github.com/Subhrajitmal/LeetCode/tree/master/1406-stone-game-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 | [0053-maximum-subarray](https://github.com/Subhrajitmal/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Subhrajitmal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Subhrajitmal/LeetCode/tree/master/0392-is-subsequence) |
+| [1406-stone-game-iii](https://github.com/Subhrajitmal/LeetCode/tree/master/1406-stone-game-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -202,4 +205,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Subhrajitmal/LeetCode/tree/master/0278-first-bad-version) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Subhrajitmal/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
