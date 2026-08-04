@@ -38,6 +38,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Subhrajitmal/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Subhrajitmal/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Subhrajitmal/LeetCode/tree/master/1929-concatenation-of-array) |
+| [3731-find-missing-elements](https://github.com/Subhrajitmal/LeetCode/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Subhrajitmal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Subhrajitmal/LeetCode/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhrajitmal/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3731-find-missing-elements](https://github.com/Subhrajitmal/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Subhrajitmal/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subhrajitmal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhrajitmal/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3731-find-missing-elements](https://github.com/Subhrajitmal/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
