@@ -33,6 +33,7 @@
 | [0724-find-pivot-index](https://github.com/Subhrajitmal/LeetCode/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Subhrajitmal/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subhrajitmal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Subhrajitmal/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhrajitmal/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/Subhrajitmal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Subhrajitmal/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -73,6 +74,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Subhrajitmal/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Subhrajitmal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Subhrajitmal/LeetCode/tree/master/0567-permutation-in-string) |
+| [1331-rank-transform-of-an-array](https://github.com/Subhrajitmal/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhrajitmal/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3731-find-missing-elements](https://github.com/Subhrajitmal/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -87,6 +89,7 @@
 | [0268-missing-number](https://github.com/Subhrajitmal/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Subhrajitmal/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subhrajitmal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Subhrajitmal/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhrajitmal/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3731-find-missing-elements](https://github.com/Subhrajitmal/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting Sort
