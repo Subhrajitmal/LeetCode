@@ -40,6 +40,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Subhrajitmal/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Subhrajitmal/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Subhrajitmal/LeetCode/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Subhrajitmal/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3731-find-missing-elements](https://github.com/Subhrajitmal/LeetCode/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
@@ -130,6 +131,7 @@
 | [0189-rotate-array](https://github.com/Subhrajitmal/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Subhrajitmal/LeetCode/tree/master/0268-missing-number) |
 | [1406-stone-game-iii](https://github.com/Subhrajitmal/LeetCode/tree/master/1406-stone-game-iii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Subhrajitmal/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -231,4 +233,16 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Subhrajitmal/LeetCode/tree/master/3310-remove-methods-from-project) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Subhrajitmal/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Subhrajitmal/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Subhrajitmal/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
