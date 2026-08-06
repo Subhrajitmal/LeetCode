@@ -29,6 +29,7 @@
 | [0283-move-zeroes](https://github.com/Subhrajitmal/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Subhrajitmal/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Subhrajitmal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Subhrajitmal/LeetCode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Subhrajitmal/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Subhrajitmal/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Subhrajitmal/LeetCode/tree/master/0724-find-pivot-index) |
@@ -91,6 +92,7 @@
 | [0242-valid-anagram](https://github.com/Subhrajitmal/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Subhrajitmal/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Subhrajitmal/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0561-array-partition](https://github.com/Subhrajitmal/LeetCode/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subhrajitmal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Subhrajitmal/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhrajitmal/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -101,6 +103,7 @@
 | [0169-majority-element](https://github.com/Subhrajitmal/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Subhrajitmal/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Subhrajitmal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0561-array-partition](https://github.com/Subhrajitmal/LeetCode/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhrajitmal/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
@@ -205,6 +208,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Subhrajitmal/LeetCode/tree/master/0179-largest-number) |
+| [0561-array-partition](https://github.com/Subhrajitmal/LeetCode/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/Subhrajitmal/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Union-Find
 |  |
