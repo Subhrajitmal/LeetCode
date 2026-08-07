@@ -30,6 +30,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Subhrajitmal/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Subhrajitmal/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Subhrajitmal/LeetCode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/Subhrajitmal/LeetCode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Subhrajitmal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Subhrajitmal/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Subhrajitmal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -98,6 +99,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Subhrajitmal/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Subhrajitmal/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Subhrajitmal/LeetCode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/Subhrajitmal/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Subhrajitmal/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Subhrajitmal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subhrajitmal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -268,4 +270,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Subhrajitmal/LeetCode/tree/master/0455-assign-cookies) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Subhrajitmal/LeetCode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
