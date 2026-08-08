@@ -132,6 +132,7 @@
 | [0567-permutation-in-string](https://github.com/Subhrajitmal/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Subhrajitmal/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subhrajitmal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Subhrajitmal/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Subhrajitmal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Subhrajitmal/LeetCode/tree/master/0392-is-subsequence) |
 | [1406-stone-game-iii](https://github.com/Subhrajitmal/LeetCode/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Subhrajitmal/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -203,6 +205,7 @@
 | [0567-permutation-in-string](https://github.com/Subhrajitmal/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Subhrajitmal/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Subhrajitmal/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Subhrajitmal/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Trie
 |  |
 | ------- |
@@ -222,6 +225,7 @@
 | [0455-assign-cookies](https://github.com/Subhrajitmal/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Subhrajitmal/LeetCode/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/Subhrajitmal/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Subhrajitmal/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Union-Find
 |  |
 | ------- |
