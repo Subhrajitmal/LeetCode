@@ -45,6 +45,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhrajitmal/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/Subhrajitmal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Subhrajitmal/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1563-stone-game-v](https://github.com/Subhrajitmal/LeetCode/tree/master/1563-stone-game-v) |
 | [1920-build-array-from-permutation](https://github.com/Subhrajitmal/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Subhrajitmal/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Subhrajitmal/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -163,6 +164,7 @@
 | [1140-stone-game-ii](https://github.com/Subhrajitmal/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Subhrajitmal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Subhrajitmal/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Subhrajitmal/LeetCode/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Subhrajitmal/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Subhrajitmal/LeetCode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Subhrajitmal/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -193,6 +195,7 @@
 | [1140-stone-game-ii](https://github.com/Subhrajitmal/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Subhrajitmal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Subhrajitmal/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Subhrajitmal/LeetCode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Subhrajitmal/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
 |  |
@@ -271,6 +274,7 @@
 | [1140-stone-game-ii](https://github.com/Subhrajitmal/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Subhrajitmal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Subhrajitmal/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Subhrajitmal/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Subhrajitmal/LeetCode/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
