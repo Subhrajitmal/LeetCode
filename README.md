@@ -166,6 +166,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/Subhrajitmal/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Subhrajitmal/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Subhrajitmal/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Subhrajitmal/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Subhrajitmal/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Subhrajitmal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -195,6 +196,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Subhrajitmal/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Subhrajitmal/LeetCode/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/Subhrajitmal/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Subhrajitmal/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -364,6 +366,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Subhrajitmal/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Subhrajitmal/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
