@@ -15,6 +15,7 @@
 | [0053-maximum-subarray](https://github.com/Subhrajitmal/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Subhrajitmal/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Subhrajitmal/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Subhrajitmal/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Subhrajitmal/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Subhrajitmal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Subhrajitmal/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -200,6 +201,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Subhrajitmal/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Subhrajitmal/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Subhrajitmal/LeetCode/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/Subhrajitmal/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -383,4 +385,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Subhrajitmal/LeetCode/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Subhrajitmal/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
