@@ -1,17 +1,14 @@
 class Solution {
     public int missingMultiple(int[] nums, int k) {
         Arrays.sort(nums);
-        HashMap<Integer,Integer> map = new HashMap<>();
-        int ans = 1;
+        HashSet<Integer> set = new HashSet<>();
+        int ans = k;
         for(int num: nums){
-            map.put(num,1);
+            set.add(num);
         }
-        for(int i=1; i<=101; i++){
-            ans = k*i;
-            if(!map.containsKey(ans)){
-                return ans;
+            while(set.contains(ans)){
+                ans += k;
             }
-        }
         return ans;
     }
 }
