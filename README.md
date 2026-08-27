@@ -145,6 +145,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Subhrajitmal/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Subhrajitmal/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Subhrajitmal/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Subhrajitmal/LeetCode/tree/master/0075-sort-colors) |
@@ -398,6 +399,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Subhrajitmal/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Subhrajitmal/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Subhrajitmal/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Subhrajitmal/LeetCode/tree/master/0876-middle-of-the-linked-list) |
