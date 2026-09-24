@@ -58,6 +58,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Subhrajitmal/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Subhrajitmal/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2540-minimum-common-value](https://github.com/Subhrajitmal/LeetCode/tree/master/2540-minimum-common-value) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Subhrajitmal/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Subhrajitmal/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Subhrajitmal/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Subhrajitmal/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -79,6 +80,7 @@
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Subhrajitmal/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Subhrajitmal/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Subhrajitmal/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Subhrajitmal/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Prefix Sum
 |  |
