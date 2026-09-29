@@ -41,6 +41,7 @@
 | [0724-find-pivot-index](https://github.com/Subhrajitmal/LeetCode/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Subhrajitmal/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/Subhrajitmal/LeetCode/tree/master/0888-fair-candy-swap) |
+| [0908-smallest-range-i](https://github.com/Subhrajitmal/LeetCode/tree/master/0908-smallest-range-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subhrajitmal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/Subhrajitmal/LeetCode/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Subhrajitmal/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -212,6 +213,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Subhrajitmal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Subhrajitmal/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/Subhrajitmal/LeetCode/tree/master/0836-rectangle-overlap) |
+| [0908-smallest-range-i](https://github.com/Subhrajitmal/LeetCode/tree/master/0908-smallest-range-i) |
 | [1140-stone-game-ii](https://github.com/Subhrajitmal/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Subhrajitmal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Subhrajitmal/LeetCode/tree/master/1510-stone-game-iv) |
