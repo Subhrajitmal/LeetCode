@@ -268,6 +268,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Subhrajitmal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Subhrajitmal/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Subhrajitmal/LeetCode/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Subhrajitmal/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1140-stone-game-ii](https://github.com/Subhrajitmal/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Subhrajitmal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Subhrajitmal/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -313,6 +314,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Subhrajitmal/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Subhrajitmal/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Subhrajitmal/LeetCode/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Subhrajitmal/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Subhrajitmal/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Subhrajitmal/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Subhrajitmal/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -342,6 +344,7 @@
 | [0179-largest-number](https://github.com/Subhrajitmal/LeetCode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Subhrajitmal/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Subhrajitmal/LeetCode/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/Subhrajitmal/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Subhrajitmal/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Subhrajitmal/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Subhrajitmal/LeetCode/tree/master/1927-sum-game) |
@@ -499,6 +502,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Subhrajitmal/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/Subhrajitmal/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Subhrajitmal/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0678-valid-parenthesis-string](https://github.com/Subhrajitmal/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Subhrajitmal/LeetCode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Subhrajitmal/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Subhrajitmal/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -508,6 +512,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Subhrajitmal/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Subhrajitmal/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Subhrajitmal/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Subhrajitmal/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Subhrajitmal/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
