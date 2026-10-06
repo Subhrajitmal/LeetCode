@@ -343,6 +343,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Subhrajitmal/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/Subhrajitmal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/Subhrajitmal/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Greedy
 |  |
 | ------- |
@@ -531,4 +532,9 @@
 | ------- |
 | [0155-min-stack](https://github.com/Subhrajitmal/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Subhrajitmal/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0933-number-of-recent-calls](https://github.com/Subhrajitmal/LeetCode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Subhrajitmal/LeetCode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
