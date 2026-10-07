@@ -52,6 +52,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Subhrajitmal/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/Subhrajitmal/LeetCode/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Subhrajitmal/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Subhrajitmal/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1872-stone-game-viii](https://github.com/Subhrajitmal/LeetCode/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/Subhrajitmal/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Subhrajitmal/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -82,6 +83,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/Subhrajitmal/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Subhrajitmal/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Subhrajitmal/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/Subhrajitmal/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Subhrajitmal/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Subhrajitmal/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -344,6 +346,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Subhrajitmal/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/Subhrajitmal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/Subhrajitmal/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Subhrajitmal/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Greedy
 |  |
 | ------- |
@@ -517,6 +520,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Subhrajitmal/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Subhrajitmal/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Subhrajitmal/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Subhrajitmal/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Bracket Sequences
 |  |
 | ------- |
