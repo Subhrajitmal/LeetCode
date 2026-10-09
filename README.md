@@ -327,6 +327,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Subhrajitmal/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Subhrajitmal/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Subhrajitmal/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Subhrajitmal/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Subhrajitmal/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/Subhrajitmal/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Subhrajitmal/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -358,6 +359,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Subhrajitmal/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Subhrajitmal/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Subhrajitmal/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Subhrajitmal/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/Subhrajitmal/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Subhrajitmal/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Subhrajitmal/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -521,6 +523,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Subhrajitmal/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Subhrajitmal/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Subhrajitmal/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Subhrajitmal/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Subhrajitmal/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Subhrajitmal/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Bracket Sequences
@@ -533,6 +536,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Subhrajitmal/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Subhrajitmal/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Subhrajitmal/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Subhrajitmal/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Subhrajitmal/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
