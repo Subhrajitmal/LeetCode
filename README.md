@@ -48,6 +48,7 @@
 | [1140-stone-game-ii](https://github.com/Subhrajitmal/LeetCode/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Subhrajitmal/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhrajitmal/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Subhrajitmal/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Subhrajitmal/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Subhrajitmal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Subhrajitmal/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -170,6 +171,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Subhrajitmal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Subhrajitmal/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhrajitmal/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Subhrajitmal/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Subhrajitmal/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Subhrajitmal/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Subhrajitmal/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -209,6 +211,7 @@
 | [0844-backspace-string-compare](https://github.com/Subhrajitmal/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Subhrajitmal/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subhrajitmal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Subhrajitmal/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/Subhrajitmal/LeetCode/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Subhrajitmal/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Divide and Conquer
@@ -265,6 +268,7 @@
 | [0704-binary-search](https://github.com/Subhrajitmal/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Subhrajitmal/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/Subhrajitmal/LeetCode/tree/master/0888-fair-candy-swap) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Subhrajitmal/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Subhrajitmal/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Subhrajitmal/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Subhrajitmal/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
