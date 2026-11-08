@@ -46,6 +46,7 @@
 | [0908-smallest-range-i](https://github.com/Subhrajitmal/LeetCode/tree/master/0908-smallest-range-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subhrajitmal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/Subhrajitmal/LeetCode/tree/master/1140-stone-game-ii) |
+| [1267-count-servers-that-communicate](https://github.com/Subhrajitmal/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/Subhrajitmal/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhrajitmal/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Subhrajitmal/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -185,6 +186,7 @@
 | [0383-ransom-note](https://github.com/Subhrajitmal/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Subhrajitmal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Subhrajitmal/LeetCode/tree/master/0561-array-partition) |
+| [1267-count-servers-that-communicate](https://github.com/Subhrajitmal/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhrajitmal/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2029-stone-game-ix](https://github.com/Subhrajitmal/LeetCode/tree/master/2029-stone-game-ix) |
 ## Two Pointers
@@ -388,11 +390,13 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Subhrajitmal/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [1267-count-servers-that-communicate](https://github.com/Subhrajitmal/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Subhrajitmal/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Subhrajitmal/LeetCode/tree/master/0036-valid-sudoku) |
+| [1267-count-servers-that-communicate](https://github.com/Subhrajitmal/LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Interactive
 |  |
 | ------- |
@@ -410,11 +414,13 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Subhrajitmal/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Subhrajitmal/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Subhrajitmal/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Subhrajitmal/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/Subhrajitmal/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
